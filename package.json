@@ -38,7 +38,7 @@
     "tinify": "^1.7.1"
   },
   "devDependencies": {
-    "@jest/globals": "^29.5.0",
+    "@jest/globals": "^29.7.0",
     "@octokit/webhooks": "^11.0.0",
     "@types/bytes": "^3.1.1",
     "@types/mime": "^3.0.1",
